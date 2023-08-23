@@ -9,5 +9,3 @@ Run app
 ```
 dart bin/main.dart
 ```
-
-Run tests
